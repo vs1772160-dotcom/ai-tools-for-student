@@ -1,0 +1,6 @@
+{
+  "name": "AI Tools Hub - Blogger Theme Preview",
+  "description": "Interactive preview, device responsive viewer, and complete XML code generator for the AI Tools Hub Blogger theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
